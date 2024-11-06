@@ -1,0 +1,20 @@
+#therian-marketplace {
+    color: aliceblue;
+    border-style: solid;
+    width: 170px;
+    border-color:darkcyan;
+    margin:auto ;
+    background-color: darkgreen;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+#Nav-Meneu {
+    position: sticky;
+    
+}
+
+#StartHere {
+    margin-left: 470px;
+    
+}
+
